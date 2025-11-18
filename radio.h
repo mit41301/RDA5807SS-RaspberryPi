@@ -1,0 +1,32 @@
+void loop();
+void tuneComplete();
+void enableInterrupts();
+void initModule();
+void resetTuning();
+void reset();
+void powerOn();
+void powerOff();
+void volumeUp();
+void volumeDown();
+void seekUp();
+void seekDown();
+void writeConfigRegisters();
+void dumpRegisters();
+void printRegisterValue(char reg);
+void freqUp();
+void freqDown();
+void muteOn();
+void muteOff();
+void printChannel();
+void writeRegister(char regAddr,int data);
+void writeRegisters();
+void checkAck(char ack);
+void tuneToChannel(int frequency);
+void checkTuneComplete();
+int readChannel();
+unsigned int readRegister(int regAddr);
+void printConfigRegisters();
+void quit();
+int openDevice(int i2cAddress);
+
+
