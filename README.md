@@ -1,3 +1,5 @@
+[Enabling RTC on the Raspberry Pi 2](https://community.element14.com/members-area/personalblogs/b/michael-conners-s-blog/posts/enabling-rtc-on-the-raspberry-pi-2)
+
 ## I2C detect
 
 <img width="732" height="487" alt="image" src="https://github.com/user-attachments/assets/d5f5e12c-2afc-492f-b9c1-863710996511" />
